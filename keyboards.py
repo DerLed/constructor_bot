@@ -83,4 +83,8 @@ inline_kb_full.row(inline_btn_3, inline_btn_4, inline_btn_5)
 inline_kb_full.insert(InlineKeyboardButton("query=''", switch_inline_query=''))
 inline_kb_full.insert(InlineKeyboardButton("query='qwerty'", switch_inline_query='qwerty'))
 inline_kb_full.insert(InlineKeyboardButton("Inline в этом же чате", switch_inline_query_current_chat='wasd'))
+<<<<<<< HEAD
 inline_kb_full.add(InlineKeyboardButton('Уроки aiogram', url='https://surik00.gitbooks.io/aiogram-lessons/content/'))
+=======
+inline_kb_full.add(InlineKeyboardButton('Уроки aiogram', url='https://surik00.gitbooks.io/aiogram-lessons/content/'))
+>>>>>>> 4534b696029099ecb46136adcb59d5f9cbe7baf3
