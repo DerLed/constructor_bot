@@ -97,7 +97,7 @@ game_board = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
-msg_db1 = '\U000023F9, \U00002B55 \U0000274C	'
+
 msg_db = '\U000023F9\U000023F9\U000023F9\n' \
          '\U000023F9\U000023F9\U000023F9\n' \
          '\U000023F9\U000023F9\U000023F9'
